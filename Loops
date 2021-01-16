@@ -1,0 +1,18 @@
+#For loops-->repeatable runs through a section of code
+#using range() python will halt the loop one number before the final number#ex when looping from 0-5, code will run 5 times but x will only ever be printed as 0-4
+#when provided with a single number, range() will always start the loop at 0
+# when provided with 2 numbers, the code will loop from the 1st until it reaches one less thant the second number
+
+# loop through a rand of numbers(0-4)
+#for x in range(5)
+#list(range(5)) will output= [0, 1, 2, 3, 4]
+#range(2,7)=output 2-6
+#ex start with for then iterator
+for x in range(5):#indent-->loop is changing each time.
+for x in range (2,7):
+    print(x)
+
+word = "peace"
+for characters in word:
+    print(character)
+

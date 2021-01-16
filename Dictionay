@@ -1,0 +1,15 @@
+# Lists 
+actors = ["Tom Cruise",
+          "Angelina Jolie",
+          "Kristen Stewart",
+          "Denzel Washington"]
+# Dictionary
+actors = {"name":"Tom Cruise"}# output will just be name Tom Cruise
+print( actor["name"])
+acctress = {
+        "name": "Angelina Jolie",
+        "genre": "Action",
+        "nationality": "Untited States"
+}
+# to extract-->use parenthesois(Key[brackets with "value"])
+Print( actress["genre"])       
