@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-Colorad Board of Election employee has given the following tasks to complete the election audit a recent local congressional election.
+Colorad0 Board of Election employee has given the following tasks to complete the election audit a recent local congressional election.
 
 1. Calulate te total number of votes cast.
 2. Get a complete list of candidates who received votes 
@@ -10,7 +10,7 @@ Colorad Board of Election employee has given the following tasks to complete the
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
-- Data Source : [election_results.csv](/Resources/election_results.csv)
+- Data Source : ![Election_results.csv](https://github.com/Quinneth/Election_Analysis/blob/main/Resources/election_results.csv)
 - Software : Python 3.7 (64 bit) .Visual Studio Code.
 - PyPoll_Challenge_starter_code.py
 
@@ -40,8 +40,6 @@ Revisit Pypoll election audit. Revise script for additional analysis relating to
 
 ## Challenge Results
 
-The analysis of the election show that :
-
 **There were 369 711 votes cast in the election.**
 
 - **Counties included in precint :**
@@ -68,6 +66,10 @@ The analysis of the election show that :
 
    
 ## Election-Audit Summary
+
+Text Files
+![Election_analysis.txt](https://github.com/Quinneth/Election_Analysis/blob/main/analysis/election_analysis.txt)
+![Election_results.txt](https://github.com/Quinneth/Election_Analysis/blob/main/analysis/election_results.txt)
    
 The goal of this Python script provides potentially actionable insights. The script used to generate the outputs could be adapted for future elections or expanded to include larger precincts and varied candidates. Depending on the dataset, the election commission could extract more specific voter attributes or tracked these results over time to detect trends. 
 The results provided could be used to target "Get out the Vote" campaigns in poorly performing precincts. 
